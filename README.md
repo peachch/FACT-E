@@ -1,7 +1,7 @@
 # FACT-E: Causality-Inspired Evaluation for Trustworthy Chain-of-Thought Reasoning
 <p align="center">
   <a href="https://arxiv.org/abs/2506.00519">
-    <img src="https://img.shields.io/badge/arXiv-arxiv:2506.00519-b31b1b.svg" alt="arXiv">
+    <img src="https://img.shields.io/badge/arXiv-arxiv:2604.10693-b31b1b.svg" alt="arXiv"> 
   </a>
   <img src="https://komarev.com/ghpvc/?username=peachch&label=Page%20Views&color=00FF00" alt="Page Views">
   <img src="https://img.shields.io/github/stars/peachch/CausalAbstain?style=social" alt="GitHub stars">
