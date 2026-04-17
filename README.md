@@ -1,15 +1,15 @@
 # FACT-E: Causality-Inspired Evaluation for Trustworthy Chain-of-Thought Reasoning
 <p align="center">
-  <a href="https://arxiv.org/abs/2506.00519">
+  <a href="https://arxiv.org/abs/2604.10693">
     <img src="https://img.shields.io/badge/arXiv-arxiv:2604.10693-b31b1b.svg" alt="arXiv"> 
   </a>
   <img src="https://komarev.com/ghpvc/?username=peachch&label=Page%20Views&color=00FF00" alt="Page Views">
-  <img src="https://img.shields.io/github/stars/peachch/CausalAbstain?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/peachch/CausalAbstain?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/stars/peachch/FACT-E?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/peachch/FACT-E?style=social" alt="GitHub forks">
 </p>
 
 <p align="center">
-  <img src="https://github.com/peachch/CausalAbstain/blob/master/imgs/multilingual_combine%20(1).png" alt="Logo" width="300"/>
+  <img src="https://github.com/peachch/CausalAbstain/blob/master/imgs/fact-e.png" alt="Logo" width="300"/>
 </p>
 
 #### This repository is for FACT-E. For more details, please refer to our [paper]([https://arxiv.org/abs/2506.00519](https://arxiv.org/abs/2604.10693)).
