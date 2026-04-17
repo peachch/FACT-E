@@ -12,7 +12,7 @@
   <img src="https://github.com/peachch/CausalAbstain/blob/master/imgs/fact-e.png" alt="Logo" width="300"/>
 </p>
 
-#### This repository is for FACT-E. For more details, please refer to our [paper]([https://arxiv.org/abs/2506.00519](https://arxiv.org/abs/2604.10693)).
+#### This repository is for FACT-E. For more details, please refer to our [paper]([https://arxiv.org/abs/2604.10693]).
 
 ## Abstract
 Chain-of-Thought (CoT) prompting has improved LLM reasoning, but models often generate explanations that appear coherent while containing unfaithful intermediate steps. Existing self-evaluation approaches are prone to inherent biases: the model may confidently endorse coherence even when the step-to-step implication is not valid, leading to unreliable faithfulness evaluation. We propose FACT-E, a causality-inspired framework for evaluating CoT quality. FACT-E uses controlled perturbations as an instrumental signal to separate genuine step-to-step dependence from bias-driven artifacts, producing more reliable faithfulness estimates (\textit{intra-chain faithfulness}). To select trustworthy trajectories, FACT-E jointly considers \textit{intra-chain faithfulness} and \textit{CoT-to-answer consistency}, ensuring that selected chains are both faithful internally and supportive of the correct final answer. Experiments on GSM8K, MATH, and CommonsenseQA show that FACT-E improves reasoning-trajectory selection and yields stronger in-context learning exemplars. FACT-E also reliably detects flawed reasoning under noisy conditions, providing a robust metric for trustworthy LLM reasoning.
