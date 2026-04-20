@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/peachch/FACT-E/tree/master/imgs/intro_jpg.png" alt="Logo" width="300"/>
+  <img src="https://github.com/peachch/FACT-E/tree/master/imgs/intro.png" alt="Logo" width="300"/>
 </p>
 
 #### This repository is for FACT-E. For more details, please refer to our [paper]([https://arxiv.org/abs/2604.10693]).
